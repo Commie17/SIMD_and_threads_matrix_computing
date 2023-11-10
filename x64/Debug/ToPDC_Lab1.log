@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Technologies of parallel and distributed computing\ToPDC_Lab1\Main.cpp(22,13): warning C4244: инициализация: преобразование "double" в "uint64_t", возможна потеря данных
+D:\Technologies of parallel and distributed computing\ToPDC_Lab1\Main.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ToPDC_Lab1.vcxproj -> D:\Technologies of parallel and distributed computing\ToPDC_Lab1\x64\Debug\ToPDC_Lab1.exe
